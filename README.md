@@ -1,2 +1,3 @@
-# Aaron-DJ.github.io
-Project showcasing website
+### Commands
+
+Run site for testing: `npm run dev`
